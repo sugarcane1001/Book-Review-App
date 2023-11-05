@@ -18,5 +18,5 @@ Here are some highlights of this project:
 
 ## Notes
 
-Need to install project dependencies with ```npm install``` and start the develeopment server with ```npm start```
+Need to install project dependencies with ```npm install``` and start the development server with ```npm start```.
 
