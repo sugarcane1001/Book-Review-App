@@ -1,6 +1,6 @@
 # Book-Review-App
 
-This app allows users to search for books, read reviews, and share their own reviews of books.
+This app allows users to search for books by specific info, read reviews, and share or delete their own reviews of books.
 
 
 ## Project Highlights
