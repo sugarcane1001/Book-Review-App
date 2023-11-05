@@ -5,8 +5,6 @@ This app allows users to search for books, read reviews, and share their own rev
 
 ## Project Highlights
 
-Here are some highlights of this project:
-
 - **Server-Side Development**: This Application is a server-side online book review platform developed with Express.js, supporting essential HTTP methods.
 
 - **Authentication Security**: Enhanced security through Session and JWT-based authentication, ensuring authorized access only.
